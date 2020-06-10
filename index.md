@@ -4,7 +4,7 @@ keywords: Bryan Fichera
 title: Bryan Fichera
 ---
 
-<img src="profile.jpg" alt="me" height="250" align="right"/>
+<img src="profile.jpg" alt="me" height="270" align="right"/>
 
 ### Intro
 
