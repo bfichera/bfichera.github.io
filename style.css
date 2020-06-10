@@ -1,0 +1,35 @@
+h1{
+	font-size: xx-large;
+	color: #474747;
+	font-family: courier;
+    text-align: center;
+}
+h2{
+	font-size: x-large;
+	color: #474747;
+	font-family: courier;
+}
+p {
+    font-family: courier;
+    color: #474747;
+    font-size:medium;
+}
+li{
+    font-family: courier;
+    color: #474747;
+    font-size: medium;
+    margin: 10px;
+}
+html {
+    font-family: courier;
+    margin-left:auto;
+    margin-right:auto;
+    width: 750px;
+    padding: 100px;
+    padding-top:15px;
+}
+#headshot {
+    margin: 20px;
+    float: right;
+}
+
