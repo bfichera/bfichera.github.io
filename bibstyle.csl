@@ -22,7 +22,7 @@
   <macro name="editor">
     <names variable="editor" delimiter=", ">
       <name and="symbol" initialize-with=". ">
-        <name-part name="family" font-variant="small-caps"/>
+        <name-part name="family"/>
       </name>
       <label form="short" strip-periods="false" prefix=" (" suffix=")"/>
     </names>
@@ -33,7 +33,7 @@
   <macro name="author">
     <names variable="author" vertical-align="baseline">
       <name and="symbol" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="first">
-        <name-part name="family" font-variant="small-caps"/>
+        <name-part name="family"/>
       </name>
       <et-al font-style="italic"/>
       <label form="short" prefix=" "/>
@@ -169,7 +169,7 @@
       <key variable="title"/>
     </sort>
     <layout>
-      <text macro="author" text-case="uppercase" strip-periods="false" suffix=", "/>
+      <text macro="author" text-case="capitalize-first" strip-periods="false" suffix=", "/>
       <date variable="issued" suffix=".">
         <date-part name="year"/>
       </date>
