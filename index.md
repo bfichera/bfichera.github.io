@@ -17,10 +17,10 @@ I am broadly interested in studying novel phases of matter with second harmonic 
 ### Education
 
 - 2017-Present : Ph.D. Massachusetts Institute of Technology
-    - *Research assistant, Gedik group (2017-Present)*
+    - *Gedik group (2017-Present)*
 - 2013-2017 : B.A. University of Pennsylvania
-    - *Research assistant, Kikkawa group (2015-2017)*
-    - *Research assistant, Aguirre group (2014)*
+    - *Kikkawa group (2015-2017)*
+    - *Aguirre group (2014)*
 
 ### Projects
 
