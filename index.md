@@ -38,4 +38,5 @@ You can email me at [bfichera AT mit DOT edu](mailto:bfichera@mit.edu).
 csl: bibstyle.csl
 nocite: |
   @PhysRevB.101.241106
+  @doi:10.1021/acsnano.2c09256
 ---
