@@ -1,35 +1,69 @@
 h1{
 	font-size: xx-large;
-	color: #474747;
-	font-family: courier;
     text-align: center;
+    opacity: 0.86;
 }
 h2{
 	font-size: x-large;
-	color: #474747;
-	font-family: courier;
+    opacity: 0.86;
+}
+h3{
+	font-size: x-large;
+    opacity: 0.86;
 }
 p {
-    font-family: courier;
-    color: #474747;
-    font-size:large;
+    font-size: large;
+    opacity: 0.86;
 }
-li{
-    font-family: courier;
-    color: #474747;
+p img {
+    background-color: rgba(255, 255, 255, 1);
+}
+div{
     font-size: large;
     margin: 10px;
+    opacity: 0.86;
+}
+div div{
+    font-size: large;
+    margin: 10px;
+    opacity: 1.0;
+}
+li{
+    font-size: large;
+    margin: 10px;
+    opacity: 0.86;
+}
+li li{
+    font-size: large;
+    margin: 10px;
+    opacity: 1.0;
+}
+a:link{
+    color: #ffb8f1;
+    opacity: 0.86;
+    text-decoration: none;
+}
+a:visited{
+    color: #ffb8f1;
+    opacity: 0.86;
+    text-decoration: none;
+}
+a:hover{
+    color: #ffb8f1;
+    opacity: 0.86;
+    text-decoration: underline;
 }
 html {
-    font-family: courier;
+    font-family: arial,sans-serif;
     margin-left:auto;
     margin-right:auto;
     width: 800px;
     padding: 100px;
     padding-top:15px;
+    background-color: #202124;
+    color: white;
 }
 #headshot {
-    margin: 20px;
+    margin: 2px;
     float: right;
 }
-
