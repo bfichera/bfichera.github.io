@@ -149,7 +149,7 @@
   </macro>
   <citation and="text" et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" givenname-disambiguation-rule="primary-name" collapse="year-suffix">
     <sort>
-      <key macro="year-date"/>
+      <key macro="year-date" sort="descending"/>
       <key macro="author-short"/>
     </sort>
     <layout delimiter="; " prefix="(" suffix=")">
@@ -164,8 +164,8 @@
   </citation>
   <bibliography et-al-min="99" et-al-use-first="98" hanging-indent="true">
     <sort>
+      <key macro="year-date" sort="descending"/>
       <key macro="author"/>
-      <key macro="year-date"/>
       <key variable="title"/>
     </sort>
     <layout>
