@@ -25,7 +25,7 @@ I am broadly interested in studying novel phases of matter with second harmonic 
 ### Projects
 
 - [ShgPy](https://bfichera.github.io/shgpy/): Open source python package with a number of useful routines for analyzing SHG data. 
-- [lmfit-slider](https://github.com/bfichera/lmfit-slider): Visual tool for assigning initialization parameters in [LMfit](https://github.com/lmfit/lmfit-py)
+- [lmfit-slider](https://github.com/bfichera/lmfit-slider) / [sympy-slider](https://github.com/bfichera/sympy-slider): Tools for visualizing functions in [LMfit](https://github.com/lmfit/lmfit-py) and [SymPy](https://www.sympy.org/en/index.html).
 - [arxivscraper](https://github.com/bfichera/arxivscraper): Full text regex search of yesterday's arxiv/new
 
 ### Contact
