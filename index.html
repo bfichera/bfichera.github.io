@@ -10,16 +10,25 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -33,8 +42,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="style.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -85,17 +93,16 @@ Full text regex search of yesterday’s arxiv/new</li>
 DOT edu</a>.</p>
 <h3 class="unnumbered" id="publications">Publications</h3>
 <div id="refs" class="references csl-bib-body hanging-indent"
-role="doc-bibliography">
+role="list">
 <div id="ref-doi:10.1021/acsnano.2c09256" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Hurtado Parra, S., D. B. Straus, B. T. Fichera, N. Iotov, C. R. Kagan
 &amp; J. M. Kikkawa, 2022. Large exciton polaron formation in 2D hybrid
 perovskites via time-resolved photoluminescence. ACS Nano,
 <strong>16</strong>: 21259–21265. https://doi.org/<a
 href="https://doi.org/10.1021/acsnano.2c09256">10.1021/acsnano.2c09256</a>
 </div>
-<div id="ref-PhysRevB.101.241106" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-PhysRevB.101.241106" class="csl-entry" role="listitem">
 Fichera, B. T., A. Kogar, L. Ye, B. Gökce, A. Zong, J. G. Checkelsky
 &amp; N. Gedik, 2020. Second harmonic generation as a probe of broken
 mirror symmetry. Phys. Rev. B, <strong>101</strong>: 241106.
