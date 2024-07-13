@@ -14,6 +14,11 @@ I am a Postdoc at Argonne National Laboratory studying condensed matter physics.
 
 I am broadly interested in studying novel phases of matter with time-resolved optical, x-ray, and electron scattering probes.
 
+### Employment
+
+- 2024-present: Postdoc, Argonne National Laboratory
+    - *Yue Cao; Charudatta Phatak (2024-present)*
+
 ### Education
 
 - 2017-2024: Ph.D. Massachusetts Institute of Technology
@@ -21,11 +26,6 @@ I am broadly interested in studying novel phases of matter with time-resolved op
 - 2013-2017 : B.A. University of Pennsylvania
     - *Jay Kikkawa (2015-2017)*
     - *James Aguirre (2014)*
-
-### Employment
-
-- 2024-present: Postdoc, Argonne National Laboratory
-    - *Yue Cao; Charudatta Phatak (2024-present)*
 
 ### Projects
 
