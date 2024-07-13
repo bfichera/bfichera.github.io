@@ -1,26 +1,31 @@
 ---
-description: Bryan Fichera
-keywords: Bryan Fichera
-title: Bryan Fichera
+description: Bryan T. Fichera
+keywords: Bryan T. Fichera
+title: Bryan T. Fichera
 ---
 
 <img src="profile.jpg" alt="me" height="230" width="230" align="right"/>
 
 ### Intro
 
-I am a Ph.D. student at MIT studying condensed matter physics. My advisor is [Prof. Nuh Gedik](https://web.mit.edu/physics/people/faculty/gedik_nuh.html).
+I am a Postdoc at Argonne National Laboratory studying condensed matter physics. I am jointly supervised by Yue Cao and Charudatta Phatak. I did my Ph.D. in Nuh Gedik's group at MIT.
 
 ### Research interests
 
-I am broadly interested in studying novel phases of matter with second harmonic generation (SHG), which is a nonlinear optical technique sensitive to a material's point group. You can read more about SHG [here](https://aip.scitation.org/doi/10.1063/1.4891417).
+I am broadly interested in studying novel phases of matter with time-resolved optical, x-ray, and electron scattering probes.
 
 ### Education
 
-- 2017-Present : Ph.D. Massachusetts Institute of Technology
-    - *Gedik group (2017-Present)*
+- 2017-2024: Ph.D. Massachusetts Institute of Technology
+    - *Nuh Gedik (2017-2024)*
 - 2013-2017 : B.A. University of Pennsylvania
-    - *Kikkawa group (2015-2017)*
-    - *Aguirre group (2014)*
+    - *Jay Kikkawa (2015-2017)*
+    - *James Aguirre (2014)*
+
+### Employment
+
+- 2024-present: Postdoc, Argonne National Laboratory
+    - *Yue Cao; Charudatta Phatak (2024-present)*
 
 ### Projects
 
@@ -30,7 +35,7 @@ I am broadly interested in studying novel phases of matter with second harmonic 
 
 ### Contact
 
-You can email me at [bfichera AT mit DOT edu](mailto:bfichera@mit.edu).
+You can email me at [bfichera AT anl DOT gov](mailto:bfichera@anl.gov).
 
 ### Publications
 
