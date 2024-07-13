@@ -17,7 +17,7 @@ I am broadly interested in studying novel phases of matter with time-resolved op
 ### Employment
 
 - 2024-present: Postdoc, Argonne National Laboratory
-    - *Yue Cao; Charudatta Phatak (2024-present)*
+    - *Yue Cao and Charudatta Phatak (2024-present)*
 
 ### Education
 
