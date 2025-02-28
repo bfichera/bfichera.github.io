@@ -42,6 +42,8 @@ You can email me at [bfichera AT anl DOT gov](mailto:bfichera@anl.gov).
 ---
 csl: bibstyle.csl
 nocite: |
+  @PhysRevX.15.011044
+
   @PhysRevLett.132.206401
 
   @doi:10.1021/acsnano.2c09256
