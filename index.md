@@ -42,6 +42,10 @@ You can email me at [bfichera AT anl DOT gov](mailto:bfichera@anl.gov).
 ---
 csl: bibstyle.csl
 nocite: |
+  @fichera2025higgsmodeelectromagnonspinspiralmultiferroic
+
+  @10.1063/5.0233827
+
   @PhysRevX.15.011044
 
   @PhysRevLett.132.206401
