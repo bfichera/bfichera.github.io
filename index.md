@@ -42,6 +42,8 @@ You can email me at [bfichera AT anl DOT gov](mailto:bfichera@anl.gov).
 ---
 csl: bibstyle.csl
 nocite: |
+  @coles2026modelfreeanalysisscatteringimaging
+
   @fichera2025higgsmodeelectromagnonspinspiralmultiferroic
 
   @10.1063/5.0233827
